@@ -11,8 +11,8 @@ Mandatory part
 
 Bonus part
 - Management of ACL and extended attributes.
-- Management of the columns without the option -l. (man 4 tty) 
-- Management of options -S, -T, -i, -o, -n, and -1
-- Speed: Very fast
+- Management of the columns without the option -l. 
+- Management of options -S, -T, -i, -o, -n, and -1.
+- Speed: Very fast.
 
-Score: 119/100 (5x Outstanding project)
+Score: 119/100 (5 x Outstanding project)
