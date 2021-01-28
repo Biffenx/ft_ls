@@ -18,4 +18,4 @@ Bonus part
 Score: 
 ![alt text](119.png)
 
-119/100 (5 x Outstanding project)
+(5 x Outstanding project)
