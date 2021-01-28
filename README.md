@@ -17,6 +17,6 @@ Bonus part
 
 Score: 
 
-![alt text](119.png)
+<img src="119.png" width="100" height="100">
 
 (5 x Outstanding project)
