@@ -15,4 +15,7 @@ Bonus part
 - Management of options -S, -T, -i, -o, -n, and -1.
 - Speed: Very fast.
 
-Score: 119/100 (5 x Outstanding project)
+Score: 
+Skärmavbild 2021-01-28 kl. 13.59.21.png
+
+119/100 (5 x Outstanding project)
