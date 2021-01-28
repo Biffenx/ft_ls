@@ -16,6 +16,6 @@ Bonus part
 - Speed: Very fast.
 
 Score: 
-Skärmavbild 2021-01-28 kl. 13.59.21.png
+![alt text](Skärmavbild 2021-01-28 kl. 13.59.21.png)
 
 119/100 (5 x Outstanding project)
